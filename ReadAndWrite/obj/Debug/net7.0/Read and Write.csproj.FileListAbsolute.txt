@@ -1,0 +1,15 @@
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\bin\Debug\net7.0\Read and Write.exe
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\bin\Debug\net7.0\Read and Write.deps.json
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\bin\Debug\net7.0\Read and Write.runtimeconfig.json
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\bin\Debug\net7.0\Read and Write.dll
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\bin\Debug\net7.0\Read and Write.pdb
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.csproj.AssemblyReference.cache
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.AssemblyInfoInputs.cache
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.AssemblyInfo.cs
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.csproj.CoreCompileInputs.cache
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.dll
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\refint\Read and Write.dll
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.pdb
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\Read and Write.genruntimeconfig.cache
+C:\Users\SanjayKumarElumalai\Desktop\ReadAndWrite\obj\Debug\net7.0\ref\Read and Write.dll
